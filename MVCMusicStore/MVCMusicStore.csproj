@@ -171,6 +171,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\klasadoniczego.cs" />
     <Compile Include="Models\Review.cs">
       <SubType>Code</SubType>
     </Compile>
